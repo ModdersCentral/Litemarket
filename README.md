@@ -11,3 +11,4 @@ TODO
 =========
 -withdraw script.<br />
 -fix messy code
+-look for potential exploits (main goal was to provide a stable release)
