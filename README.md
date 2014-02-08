@@ -9,4 +9,5 @@ Litemarket - v1.0 Unstable
 
 TODO
 =========
--withdraw script
+-withdraw script.<br />
+-fix messy code
