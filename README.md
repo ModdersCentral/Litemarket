@@ -1,6 +1,7 @@
 Litemarket - v1.0 Unstable
 ==========
-![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://raw2.github.com/ModdersCentral/Litemarket/master/litemarket1.png)
+![alt tag](https://raw2.github.com/ModdersCentral/Litemarket/master/litemarket2.png)
 -litecoind (also works with bitcoin).<br />
 -currently uses 1 API (to grab litecoin prices every 6 hours).<br />
 -calculates prices from fiat into LTC.<br />
