@@ -10,5 +10,11 @@ Litemarket - v1.0 Unstable
 TODO
 =========
 -withdraw script.<br />
--fix messy code
--look for potential exploits (main goal was to provide a stable release)
+-fix messy code<br />
+-look for potential exploits (main goal was to provide a stable release)<br />
+
+
+Vendors/seller
+=========
+**WARNING**<br />
+at launch the withdraw script will be in beta stage since: like if a customer sends litecoins with lots of inputs, this could bankrupt the site trying to withdraw it, raw transaction reports error if not enough fees, its a big risk but i want it 100% solved
