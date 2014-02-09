@@ -18,4 +18,8 @@ TODO
 Vendors/seller
 =========
 **WARNING**<br />
-at launch the withdraw script will be in beta stage since: like if a customer sends litecoins with lots of inputs, this could bankrupt the site trying to withdraw it, raw transaction reports error if not enough fees, its a big risk but i want it 100% solved
+at launch the withdraw script will be in beta stage since: like if a customer sends litecoins with lots of inputs, this could bankrupt the site trying to withdraw it, raw transaction reports error if not enough fees, its a big risk but i want it 100% solved<br />
+
+FUTURE VERSION: (v1.3)
+=========
+I have a theory on new method to withdraw , need to rewrite the script though. ill probably be selling v1.3 if everything works + lifetime updates
