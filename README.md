@@ -1,4 +1,4 @@
-Litemarket - v1.0 Unstable
+Litemarket - v0.9[BETA] - [FREE EDITION]
 ==========
 -litecoind (also works with bitcoin).<br />
 -currently uses 1 API (to grab litecoin prices every 6 hours).<br />
