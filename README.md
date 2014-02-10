@@ -1,12 +1,25 @@
 Litemarket - v1.0 Unstable
 ==========
-![alt tag](https://raw2.github.com/ModdersCentral/Litemarket/master/litemarket1.png)
-![alt tag](https://raw2.github.com/ModdersCentral/Litemarket/master/litemarket2.png)
 -litecoind (also works with bitcoin).<br />
 -currently uses 1 API (to grab litecoin prices every 6 hours).<br />
 -calculates prices from fiat into LTC.<br />
 -no javascript (trying to keep it css/HTML5 only).<br />
 
+Main page
+==========
+![alt tag](https://raw2.github.com/ModdersCentral/Litemarket/master/litemarket1.png)
+Product listing
+==========
+![alt tag](https://raw2.github.com/ModdersCentral/Litemarket/master/litemarket2.png)
+Item Display
+==========
+![alt tag](https://raw2.github.com/ModdersCentral/Litemarket/master/litemarket3.png)
+View orders
+==========
+![alt tag](https://raw2.github.com/ModdersCentral/Litemarket/master/litemarket4.png)
+Messaging System
+==========
+In development<br />
 
 TODO
 =========
