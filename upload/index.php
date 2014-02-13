@@ -281,10 +281,10 @@ if (medium_checkloggedin()){header("Location: home.php");exit();}
       <!-- If the content becomes larger than the pop-up this div will scroll the content -->
       <div class="popScroll">
         <h2>Terms</h2>
-        <p>You agree you are not working with the government and/or FBI and/or CID and/or law inforcement agency</p>
-		<p>You agree not to take legal action against the website owner.</p>
-		<p>You will not spend more than you can afford to lose. </p>
-		<p>You will not use this website as evidence in a court. </p>
+        <p>You agree ......</p>
+		<p>..........</p>
+		<p>You will not .........</p>
+		<p>You will not ...... </p>
       </div>
 
       
@@ -375,10 +375,10 @@ KlWOUz54schJu6WdTMfH1JVHTbsuzbaLzeXFORa+41oG0kvgEI+Gg+Xc45FYCA==<br/>
 		  <p><span style="font-weight:bold;">how do i make a gpg key?</span> <br />Manage keys -> key -> generate key -> enter your username in the 'name' field</p>
         <p><span style="font-weight:bold;">Do you provide ESCROW?</span> <br />no. we are trying to be effient, making database entries for escrow is a waste of bytes/storage</p>
 		   <p><span style="font-weight:bold;">vendor sent more than i paid for and is demanding more money?</span> <br />contact support immediatly.</p>
-		  <p><span style="font-weight:bold;">item not recieved?</span> <br />DIFFERENT COUNTRIES:<br />ordering from different countries increases the risk of your package getting caught. there isn't much we can do. <br />SAME COUNTRY<br />99% of the time the package gets to the destination</p>
+		  <p><span style="font-weight:bold;">item not recieved?</span>fsdfgdfg</p>
 		<p><span style="font-weight:bold;">I got scammed?</span> <br />Contact Seller, if no response in 48 hours, leave negative feedback and contact support. when there is enough evidence we will look into it.</p>
 		<p><span style="font-weight:bold;">Im a seller and cant withdraw my litecoins?</span> <br />if it stays at 'processing' for 72+ hours please contact support.</p>
-		<p><span style="font-weight:bold;">Im a seller im in negative feedback?</span> <br />if you sent the packages,then, your packages might be getting monitored by LE.</p>
+		<p><span style="font-weight:bold;">blah blah blah</span> <br />i</p>
 		
       </div>
 
