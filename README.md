@@ -19,7 +19,7 @@ View orders
 ![alt tag](https://raw2.github.com/ModdersCentral/Litemarket/master/litemarket4.png)
 Messaging System
 ==========
-In development<br />
+![alt tag](https://raw2.github.com/ModdersCentral/Litemarket/master/litemarket5.png)
 
 TODO
 =========
