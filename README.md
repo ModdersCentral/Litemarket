@@ -7,19 +7,19 @@ Litemarket - v0.9[BETA] - [FREE EDITION]
 
 Main page
 ==========
-![alt tag](https://raw2.github.com/ModdersCentral/Litemarket/master/litemarket1.png)
+![alt tag](https://github.com/ModdersCentral/Litemarket/blob/master/litemarket1.png)
 Product listing
 ==========
-![alt tag](https://raw2.github.com/ModdersCentral/Litemarket/master/litemarket2.png)
+![alt tag](https://github.com/ModdersCentral/Litemarket/blob/master/litemarket2.png)
 Item Display
 ==========
-![alt tag](https://raw2.github.com/ModdersCentral/Litemarket/master/litemarket3.png)
+![alt tag](https://github.com/ModdersCentral/Litemarket/blob/master/litemarket3.png)
 View orders
 ==========
-![alt tag](https://raw2.github.com/ModdersCentral/Litemarket/master/litemarket4.png)
+![alt tag](https://github.com/ModdersCentral/Litemarket/blob/master/litemarket4.png)
 Messaging System
 ==========
-![alt tag](https://raw2.github.com/ModdersCentral/Litemarket/master/litemarket5.png)
+![alt tag](https://github.com/ModdersCentral/Litemarket/blob/master/litemarket5.png)
 
 TODO
 =========
