@@ -21,18 +21,11 @@ Messaging System
 ==========
 ![alt tag](https://github.com/ModdersCentral/Litemarket/blob/master/litemarket5.png)
 
-TODO
+Current Version
 =========
--withdraw script.<br />
--fix messy code<br />
--look for potential exploits (main goal was to provide a stable release)<br />
+This version isn't suitable for production servers or even test servers.<br />
+The code has bugs and should be looked at by a profesional.
 
-
-Vendors/seller
+Next Version: (v1.3)
 =========
-**WARNING**<br />
-at launch the withdraw script will be in beta stage since: like if a customer sends litecoins with lots of inputs, this could bankrupt the site trying to withdraw it, raw transaction reports error if not enough fees, its a big risk but i want it 100% solved<br />
-
-FUTURE VERSION: (v1.3)
-=========
-I have a theory on new method to withdraw , need to rewrite the script though. ill probably be selling v1.3 if everything works + lifetime updates
+I have fixed most of the bugs but i need to juggle this with my work
