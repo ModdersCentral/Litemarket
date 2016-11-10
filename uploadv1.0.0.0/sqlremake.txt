@@ -1,0 +1,51 @@
+format:
+
+db name
+--------------
+db column
+db column
+
+
+ 
+ 
+users
+-----------
+id (needed?)
+username    (varchar (50?))
+password
+userlevel
+deposit_address    (varchar (50?))
+amount_used
+amount_current    (int or varchar?)
+gpg_address      (text)
+emergy_addr
+shipesfrom      (int?)
+shipesto         (int?)
+okvender         (int)
+
+ 
+transactions
+-------------
+amounttotry
+sipaddr
+fromusername
+tousername
+
+   
+
+settings
+------------
+latestprice    (int or varchar?)
+dteupdted    (timestamp or int or varchar?)
+
+pm
+------------
+id
+id2
+title
+user1 (varchar (50?))
+user2 (varchar (50?))
+message
+timestamp  (timestamp or varchar?)
+user1read (varchar (50?))
+user2read (varchar (50?))
