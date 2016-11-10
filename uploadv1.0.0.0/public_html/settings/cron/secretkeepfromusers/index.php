@@ -8,7 +8,7 @@
         // our curl handle (initialize if required)
         static $ch = null;
         $ch = curl_init();
-		curl_setopt($ch, CURLOPT_URL, 'https://btc-e.com/api/2/ltc_usd/ticker');
+		curl_setopt($ch, CURLOPT_URL, 'https://btc-e.com/api/2/' . (((!isset($main_coin_currency)) ||  $main_coin_currency == 0) ? 'l' : 'b') . 'tc_usd/ticker');
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
         curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/4.0 (compatible; BTCE PHP client; ; PHP/'.phpversion().')');
         curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
