@@ -29,6 +29,8 @@ if (isset($_POST['submit'])){
 	fclose($myfile);
 	$myfile2 = fopen("LOCK", "w") or die("Unable to open file!");
 	fclose($myfile2);
+	echo ('software installed');
+	exit;
 }
 
 
