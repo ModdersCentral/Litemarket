@@ -23,6 +23,10 @@ if (isset($_POST['submit'])){
 		\$emailverifSTATUS=true;
 	
 		\$debug='none';
+		
+		\$main_coin_currency=$_POST['general_currency'];
+		
+		
 	
 	"; 
 	fwrite($myfile, $txt);
@@ -50,7 +54,7 @@ if (isset($_POST['submit'])){
   <input type="text" name="mysql_db"><br>
   
   
-  <h1>bitcoin rpc</h1>
+  <h1>bitcoin/litecoin rpc</h1>
    rpc user:<br>
   <input type="text" name="rpc_username"><br>
      rpc password:<br>
@@ -61,7 +65,9 @@ if (isset($_POST['submit'])){
   <h1>general</h1>
     website name:<br>
   <input type="text" name="general_name"><br>
-  
+     allow vendor registrations:<br>
+   Litecoin<input type="radio" name="general_currency" value="0">
+  Bitcoin<input type="radio" name="general_currency" value="1"><br>
   
    allow vendor registrations:<br>
    Yes<input type="radio" name="vendor_reg" value="1">

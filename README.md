@@ -1,14 +1,18 @@
 Litemarket - v0.9[BETA] - [FREE EDITION]
 ==========
--litecoind (also works with bitcoin).<br />
--currently uses 1 API (to grab litecoin prices every 6 hours).<br />
--calculates prices from fiat into LTC.<br />
--no javascript (trying to keep it css/HTML5 only).<br />
+
+
+Features
+=========
+* Private Message System
+* no javascript (trying to keep it css/HTML5 only)
+* currently uses 1 API (to grab litecoin prices every * hours).
+* calculates prices from fiat into LTC
 
 Requirements
 =========
 * CURL
-* Bitcoin daemon (RPC)
+* Bitcoin/Litecoin daemon (RPC)
 
 
 
