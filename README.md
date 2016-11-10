@@ -8,6 +8,7 @@ Litemarket - v0.9[BETA] - [FREE EDITION]
 Requirements
 =========
 * CURL
+* Bitcoin daemon (RPC)
 
 
 
