@@ -5,6 +5,12 @@ Litemarket - v0.9[BETA] - [FREE EDITION]
 -calculates prices from fiat into LTC.<br />
 -no javascript (trying to keep it css/HTML5 only).<br />
 
+Requirements
+=========
+* CURL
+
+
+
 Main page
 ==========
 ![alt tag](https://github.com/ModdersCentral/Litemarket/blob/master/litemarket1.png)
