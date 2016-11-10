@@ -1,5 +1,5 @@
 <?php
-
+define('INSTALLED',true);
 //whether to get info from daemon or website
 $settings["setting_api_type"] = 0;//(0 - daemon,1 - website)
 //the time which the price updates in millisceonds, 
